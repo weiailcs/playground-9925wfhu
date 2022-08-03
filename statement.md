@@ -5,6 +5,7 @@ hhh
 
 ```python runnable
 print('Hello World!')
+print('hhh')
 ```
 
 # Advanced usage
